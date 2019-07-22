@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.longhoang",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.1.2",
+    "applicationType": "monolith",
+    "baseName": "game",
+    "packageName": "com.longhoang",
+    "packageFolder": "com/longhoang",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZDI2MzBkYTZiMmM1OGMzY2U0YjA2MGFkNjFiNDc5Y2E1MDBmOWQ3MzM4YzZmNTc2MjM1MTE0MTM4OWM5Njg2NzliYTA5NWRlZDczZWY4OWIxMGY5NTAzYjVkNzFmMTcwYmMyZDNjMTdkN2ViOTE2OGYyMGEyZTYzZWY0NjFiMWI=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "sandstone",
+    "clientThemeVariant": "dark",
+    "testFrameworks": ["gatling", "protractor"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "vi"]
+  }
+}
